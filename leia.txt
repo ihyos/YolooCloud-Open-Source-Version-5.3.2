@@ -1,0 +1,9 @@
+// Banco de Dados
+
+O banco de dados atualmente utilizado é o JSONDB. No entanto, você pode substituí-lo por qualquer outro sistema de banco de dados, como MongoDB, entre outros.
+
+Todos os registros armazenados devem retornar para a pasta /data no formato JSON, garantindo compatibilidade com a estrutura padrão do projeto.
+
+// Painel Administrativo
+
+É possível desenvolver um acompanhamento em tempo real por meio de um Painel Administrativo (Admin Panel) profissional, permitindo monitoramento e controle completos das informações e funcionalidades do bot.
