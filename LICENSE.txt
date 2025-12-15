@@ -8,7 +8,3 @@ Não é permitido modificar o projeto com o intuito de reivindicar sua autoria o
 
 3. Objetivo do projeto aberto
 O projeto é disponibilizado de forma aberta com o propósito de fomentar o aprendizado e a compreensão das tecnologias utilizadas pela equipe, incentivando o desenvolvimento técnico da comunidade.
-
-Criadores: Raphael Loureano, João Pedro, Jullie, Eye Shotzzx
-Assistências LLM: Gemini 3 PRO, Claude, ChatGPT-5
-IDEs Utilizadas: VS Code, Antigravity, Trae e Cursor.
