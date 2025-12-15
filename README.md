@@ -1,4 +1,5 @@
-# CDS Network Bot - Documentação Oficial
+# YolooCloud Discord Bot 
+
 
 Este projeto é um bot de Discord profissional, desenvolvido originalmente para a CDS Network (anteriormente YolooCloud). O bot oferece um sistema completo de tickets, gerenciamento de loja, integração com pagamentos (Mercado Pago e PIX), sistema de IA, moderação e muito mais.
 
@@ -97,3 +98,4 @@ O bot irá registrar os comandos slash automaticamente na primeira inicializaç�
 
 ## 📄 Licença
 Este projeto é Open Source. Sinta-se livre para modificar e distribuir.
+
